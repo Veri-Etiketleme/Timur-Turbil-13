@@ -1,0 +1,31 @@
+Fonksiyonlar
+    render
+    redirect
+    a2b_base64
+    BytesIO
+    Image
+    cv2
+    load_model
+    backend
+    path
+
+Paket/Kütüphaneler
+    django
+    keras
+    numpy
+    opencv-python-headless
+    tensorflow
+    whitenoise
+    Pillow
+    django.core.wsgi
+    os
+    sys
+
+Yardımcı Teknolojiler
+    Django
+
+AI Algoritmaları
+    keras
+
+Yazılım Dili
+    Python3

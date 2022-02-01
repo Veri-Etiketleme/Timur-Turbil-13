@@ -1,13 +1,23 @@
 Fonksiyonlar
-    add_book_info
-    write_navbars
-    fix_kernelspec
+    nbformat.v4.nbbase 
+    new_markdown_cell
     iter_notebooks
-    get_notebook_title
-    gen_contents
-    print_contents
-
+    NOTEBOOK_DIR
+    iter_notebooks
+    ComplexHTTPRequestHandler
+    unicode_literals
 Paket/Kütüphaneler
+    pelicanconf
+    SocketServer
+    fabric.api
+    shutil
+    re
+    os
+    nbformat
+    kernelspec
+    ipykernel
+    generate_contents
+    nbformat
     numpy
     pandas
     scipy
@@ -20,7 +30,9 @@ Paket/Kütüphaneler
     numexpr
     pandas-datareader
     netcdf4
-
+    itertools
+    REG
+    sys
 Yardımcı Teknolojiler
     jupyter
     notebook

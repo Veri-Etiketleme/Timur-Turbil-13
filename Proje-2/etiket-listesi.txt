@@ -1,17 +1,15 @@
 Fonksiyonlar
-    down_scale
-    up_scale
-    hexify
-    get_colors
-    clamp
-    order_by_hue
-    brighten
-    colorz
-    Image.open
-    html_preview
-    parse_args
-    add_argument
-    
+    path
+    exit
+    BytesIO
+    NamedTemporaryFile
+    ArgumentParser
+    Image
+    array
+    kmeans
+    rgb_to_hsv
+    hsv_to_rgb
+    open
 Paket/Kütüphaneler
     numpy
     scipy
