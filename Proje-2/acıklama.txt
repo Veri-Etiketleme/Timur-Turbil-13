@@ -1,0 +1,5 @@
+Bir renk şeması oluşturucu. Bir görüntü (yerel veya çevrimiçi) çeker ve 
+kmeans kullanarak en baskın renkleri yakalar. Ayrıca baskın renklere değer 
+katarak cesur renkler oluşturur. Son olarak, renklerin çıktısını stdout'a 
+verir (satır başına bir normal ve bir kalın, boşlukla ayrılmış) ve renk 
+şemasının bir HTML önizlemesini oluşturur.

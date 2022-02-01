@@ -1,0 +1,25 @@
+Python
+    down_scale
+    up_scale
+    hexify
+    get_colors
+    clamp
+    order_by_hue
+    brighten
+    colorz
+    Image.open
+    html_preview
+    parse_args
+    add_argument
+    numpy
+    scipy
+    pillow
+    sys
+    io
+    tempfile
+    argparse
+    PIL
+    scipy.cluster.vq
+    colorsys  
+    vscode
+    kmeans

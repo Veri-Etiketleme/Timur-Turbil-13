@@ -1,0 +1,10 @@
+Bu kitap Python 3.5 ile yazılmış ve test edilmiştir, Python 2.7'de dahil olmaz üzere 
+diğer python versiyonlarıylada yaklaşık tüm case'lerde çalışmaktadır.
+
+Kitap, Python'da verilerle çalışmak için gerekli olan temel kitaplıkları tanıtır: özellikle 
+IPython, NumPy, Pandas, Matplotlib, Scikit-Learn ve ilgili paketler. Bir dil olarak Python'a 
+aşina olunduğu varsayılmaktadır; Dile hızlı bir girişe ihtiyacınız varsa, ücretsiz yardımcı 
+proje olan A Whirlwind Tour of Python'a bakın: Python diline araştırmacıları ve bilim adamlarını 
+hedefleyen hızlı bir giriş.
+
+Metne eşlik edebilecek not defterlerinin bir dizini için Index.ipynb'ye bakın.

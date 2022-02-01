@@ -1,0 +1,34 @@
+Fonksiyonlar
+    down_scale
+    up_scale
+    hexify
+    get_colors
+    clamp
+    order_by_hue
+    brighten
+    colorz
+    Image.open
+    html_preview
+    parse_args
+    add_argument
+    
+Paket/Kütüphaneler
+    numpy
+    scipy
+    pillow
+    sys
+    io
+    tempfile
+    argparse
+    PIL
+    scipy.cluster.vq
+    colorsys
+
+Yardımcı Teknolojiler
+    vscode
+
+AI Algoritmaları
+    kmeans
+
+Yazılım Dili
+    python

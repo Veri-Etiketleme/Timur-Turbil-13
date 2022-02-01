@@ -1,0 +1,34 @@
+Fonksiyonlar
+    add_book_info
+    write_navbars
+    fix_kernelspec
+    iter_notebooks
+    get_notebook_title
+    gen_contents
+    print_contents
+
+Paket/Kütüphaneler
+    numpy
+    pandas
+    scipy
+    scikit-image
+    pillow
+    matplotlib
+    seaborn
+    line_profiler
+    memory_profiler
+    numexpr
+    pandas-datareader
+    netcdf4
+
+Yardımcı Teknolojiler
+    jupyter
+    notebook
+
+AI Algoritmaları
+    scikit learn
+
+Yazılım Dili
+    python
+
+
