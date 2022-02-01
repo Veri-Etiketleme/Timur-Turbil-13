@@ -1,22 +1,57 @@
-django
-keras
-numpy
-opencv-python-headless
-tensorflow
-whitenoise
-Pillow
-django.core.wsgi
-os
-sys
-render
-redirect
-a2b_base64
-BytesIO
-Image
-cv2
-load_model
-backend
-path
-Django
-keras
-Python3
+Python 
+    os 
+        getenv
+        path
+            dirname
+            join
+        environ    
+            setdefault
+    socket        
+        gethostname
+    django
+        contrib
+            admin
+        urls    
+            path
+            include
+        core.wsgi
+            get_wsgi_application
+        db
+            migrations
+            models
+        contrib   
+            admin 
+        shortcuts
+            render
+            redirect
+    binascii
+        a2b_base64
+    io
+        BytesIO
+    PIL
+        Image
+    cv2
+        CascadeClassifier
+        cvtColor
+        resize
+    numpy
+        array
+        argmax
+    keras
+        models
+            load_model
+        backend
+    sys
+        argv
+    dj-database-url
+    gunicorn
+    Pillow
+    Markdown
+    bleach
+    whitenoise
+    requests
+    opencv-python-headless
+    tensorflow-cpu
+
+Yardımcı Teknolojiler
+    django
