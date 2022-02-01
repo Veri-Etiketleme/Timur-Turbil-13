@@ -1,0 +1,48 @@
+import os
+import webbrowser
+from sys import exit
+from io import BytesIO
+from tempfile import NamedTemporaryFile
+from argparse import ArgumentParser
+from PIL import Image
+from numpy import array
+from scipy.cluster.vq import kmeans
+from colorsys import rgb_to_hsv, hsv_to_rgb
+
+
+
+Python
+    path
+    NamedTemporaryFile
+    ArgumentParser
+    Image
+    array
+    kmeans
+    rgb_to_hsv
+    hsv_to_rgb
+    open
+    numpy
+        array
+    scipy
+    pillow
+
+    sys
+        exit
+    io
+        BytesIO
+    tempfile
+        NamedTemporaryFile
+    argparse
+        ArgumentParser
+    PIL
+        Image
+    scipy.cluster.vq
+    colorsys  
+    vscode
+    kmeans
+
+Algoritmalar   
+    kmeans
+
+Yardımcı Teknolojiler
+        
