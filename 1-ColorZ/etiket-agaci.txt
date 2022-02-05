@@ -1,7 +1,13 @@
+
+
+
+
 Python
     os
         close
         path
+            dirname
+            join
             isfile
             abspath
     webbrowser
@@ -22,8 +28,10 @@ Python
         Image
     numpy
         array
-    scipy.cluster.vq
-        kmeans
+    scipy
+        cluster
+            vq
+                kmeans
     colorsys
         rgb_to_hsv
         hsv_to_rgb

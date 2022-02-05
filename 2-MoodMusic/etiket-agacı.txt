@@ -14,8 +14,9 @@ Python
         urls    
             path
             include
-        core.wsgi
-            get_wsgi_application
+        core
+            wsgi
+                get_wsgi_application
         db
             migrations
             models
@@ -52,6 +53,8 @@ Python
     requests
     opencv-python-headless
     tensorflow-cpu
+
+procfile
 
 Yardımcı Teknolojiler
     django
